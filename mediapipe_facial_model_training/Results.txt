@@ -1,0 +1,312 @@
+=======================================================================================================================================
+Enlarged Videos
+=======================================================================================================================================
+=============================================================================================
+= Facial   Enlarged 0.5s
+Emotion= neutral   ( 50.0 %) (files= 6 )
+Emotion= happy   ( 100.0 %) (files= 6 )
+Emotion= sad   ( 33.33333333333333 %) (files= 6 )
+Emotion= anger   ( 16.666666666666664 %) (files= 6 )
+Emotion= fear   ( 50.0 %) (files= 6 )
+Emotion= disgust   ( 66.66666666666666 %) (files= 6 )
+Emotion= surprise   ( 50.0 %) (files= 6 )
+Overall: ( 52.38095238095239 %) (files= 42 )
+Traceback (most recent call last):
+
+= Facial 0s
+Emotion= neutral   ( 66.66666666666666 %) (files= 6 )
+Emotion= happy   ( 100.0 %) (files= 6 )
+Emotion= sad   ( 33.33333333333333 %) (files= 6 )
+Emotion= anger   ( 16.666666666666664 %) (files= 6 )
+Emotion= fear   ( 50.0 %) (files= 6 )
+Emotion= disgust   ( 66.66666666666666 %) (files= 6 )
+Emotion= surprise   ( 50.0 %) (files= 6 )
+Overall: ( 54.761904761904766 %) (files= 42 )
+
+
+
+
+
+
+=======================================================================================================================================
+=======================================================================================================================================
+
+=======================================================================================================================================
+Standard Videos in Image Mode
+=======================================================================================================================================
+
+=============================================================================================
+= Facial ADFES 1s
+Emotion= neutral   ( 100.0 %) (files= 22 )
+Emotion= happy   ( 100.0 %) (files= 22 )
+Emotion= sad   ( 50.0 %) (files= 22 )
+Emotion= anger   ( 63.63636363636363 %) (files= 22 )
+Emotion= fear   ( 86.36363636363636 %) (files= 22 )
+Emotion= disgust   ( 86.36363636363636 %) (files= 22 )
+Emotion= surprise   ( 90.9090909090909 %) (files= 22 )
+Overall: ( 82.46753246753246 %) (files= 154 )
+=============================================================================================
+
+=============================================================================================
+= Facial ADFES 1.25s
+Emotion= neutral   ( 100.0 %) (files= 22 )
+Emotion= happy   ( 100.0 %) (files= 22 )
+Emotion= sad   ( 50.0 %) (files= 22 )
+Emotion= anger   ( 68.18181818181817 %) (files= 22 )
+Emotion= fear   ( 86.36363636363636 %) (files= 22 )
+Emotion= disgust   ( 95.45454545454545 %) (files= 22 )
+Emotion= surprise   ( 90.9090909090909 %) (files= 22 )
+Overall: ( 84.4155844155844 %) (files= 154 )
+Traceback (most recent call last):
+=============================================================================================
+
+
+
+=============================================================================================
+= Facial  RAVDESS 320 0.5s
+Emotion= neutral   ( 56.25 %) (files= 96 )
+Emotion= happy   ( 78.64583333333334 %) (files= 192 )
+Emotion= sad   ( 14.0625 %) (files= 192 )
+Emotion= anger   ( 20.3125 %) (files= 192 )
+Emotion= fear   ( 42.1875 %) (files= 192 )
+Emotion= disgust   ( 71.35416666666666 %) (files= 192 )
+Emotion= surprise   ( 31.770833333333332 %) (files= 192 )
+Overall: ( 44.07051282051282 %) (files= 1248 )
+=============================================================================================
+= Facial RAVDESS 640 0.5s
+Emotion= neutral   ( 58.333333333333336 %) (files= 96 )
+Emotion= happy   ( 79.16666666666666 %) (files= 192 )
+Emotion= sad   ( 18.75 %) (files= 192 )
+Emotion= anger   ( 16.666666666666664 %) (files= 192 )
+Emotion= fear   ( 45.83333333333333 %) (files= 192 )
+Emotion= disgust   ( 69.27083333333334 %) (files= 192 )
+Emotion= surprise   ( 32.29166666666667 %) (files= 192 )
+Overall: ( 44.79166666666667 %) (files= 1248 )
+=============================================================================================
+= Facial
+Emotion= neutral   ( 54.166666666666664 %) (files= 96 )
+Emotion= happy   ( 79.6875 %) (files= 192 )
+Emotion= sad   ( 16.666666666666664 %) (files= 192 )
+Emotion= anger   ( 18.229166666666664 %) (files= 192 )
+Emotion= fear   ( 45.3125 %) (files= 192 )
+Emotion= disgust   ( 70.83333333333334 %) (files= 192 )
+Emotion= surprise   ( 31.770833333333332 %) (files= 192 )
+Overall: ( 44.55128205128205 %) (files= 1248 )
+=============================================================================================
+
+
+
+
+=============================================================================================
+=============================================================================================
+
+=======================================================================================================================================
+Standard Videos in VIDEO Mode
+=======================================================================================================================================
+
+= Facial 320 Ravdess
+Emotion= neutral   ( 44.79166666666667 %) (files= 96 )
+Emotion= happy   ( 75.52083333333334 %) (files= 192 )
+Emotion= sad   ( 15.104166666666666 %) (files= 192 )
+Emotion= anger   ( 18.229166666666664 %) (files= 192 )
+Emotion= fear   ( 41.66666666666667 %) (files= 192 )
+Emotion= disgust   ( 73.95833333333334 %) (files= 192 )
+Emotion= surprise   ( 31.770833333333332 %) (files= 192 )
+Overall: ( 42.868589743589745 %) (files= 1248 )
+
+= Facial 640 RAVDESS
+Emotion= neutral   ( 42.70833333333333 %) (files= 96 )
+Emotion= happy   ( 72.39583333333334 %) (files= 192 )
+Emotion= sad   ( 18.75 %) (files= 192 )
+Emotion= anger   ( 16.145833333333336 %) (files= 192 )
+Emotion= fear   ( 44.27083333333333 %) (files= 192 )
+Emotion= disgust   ( 72.91666666666666 %) (files= 192 )
+Emotion= surprise   ( 36.45833333333333 %) (files= 192 )
+Overall: ( 43.42948717948718 %) (files= 1248 )
+
+= Facial  ENLARGED 640 RAVDESS
+Emotion= neutral   ( 50.0 %) (files= 6 )
+Emotion= happy   ( 100.0 %) (files= 6 )
+Emotion= sad   ( 33.33333333333333 %) (files= 6 )
+Emotion= anger   ( 16.666666666666664 %) (files= 6 )
+Emotion= fear   ( 83.33333333333334 %) (files= 6 )
+Emotion= disgust   ( 83.33333333333334 %) (files= 6 )
+Emotion= surprise   ( 33.33333333333333 %) (files= 6 )
+Overall: ( 57.14285714285714 %) (files= 42 )
+
+= Facial ADFESS
+Emotion= neutral   ( 100.0 %) (files= 22 )
+Emotion= happy   ( 100.0 %) (files= 22 )
+Emotion= sad   ( 59.09090909090909 %) (files= 22 )
+Emotion= anger   ( 50.0 %) (files= 22 )
+Emotion= fear   ( 90.9090909090909 %) (files= 22 )
+Emotion= disgust   ( 95.45454545454545 %) (files= 22 )
+Emotion= surprise   ( 81.81818181818183 %) (files= 22 )
+Overall: ( 82.46753246753246 %) (files= 154 )
+
+
+
+= Facial   ENLARGED 0SECS !!!!!!!!!!!!!!!!!!!!!!
+Emotion= neutral   ( 50.0 %) (files= 6 )
+Emotion= happy   ( 100.0 %) (files= 6 )
+Emotion= sad   ( 33.33333333333333 %) (files= 6 )
+Emotion= anger   ( 16.666666666666664 %) (files= 6 )
+Emotion= fear   ( 83.33333333333334 %) (files= 6 )
+Emotion= disgust   ( 66.66666666666666 %) (files= 6 )
+Emotion= surprise   ( 33.33333333333333 %) (files= 6 )
+Overall: ( 54.761904761904766 %) (files= 42 )
+
+
+
+
+
+
+=======================================================================================================================================
+IMAGES
+=======================================================================================================================================
+0 / 0  Dataset= Yale Correct= 60.0   ( 15 )
+1 / 0  Dataset= CK Correct= 99.66159052453469   ( 591 )
+2 / 0  Dataset= ADFES Correct= 100.0   ( 22 )
+3 / 0  Dataset= FEI Correct= 99.0   ( 200 )
+4 / 0  Dataset= JAFFE Correct= 100.0   ( 30 )
+5 / 0  Dataset= OulaCasia Correct= 0   ( 0 )
+6 / 0  Dataset= VisGraf Correct= 97.22222222222221   ( 36 )
+Emotion= happy
+0 / 1  Dataset= Yale Correct= 100.0   ( 15 )
+1 / 1  Dataset= CK Correct= 100.0   ( 68 )
+2 / 1  Dataset= ADFES Correct= 100.0   ( 22 )
+3 / 1  Dataset= FEI Correct= 98.0   ( 200 )
+4 / 1  Dataset= JAFFE Correct= 100.0   ( 31 )
+5 / 1  Dataset= OulaCasia Correct= 100.0   ( 80 )
+6 / 1  Dataset= VisGraf Correct= 100.0   ( 36 )
+Emotion= sad
+0 / 2  Dataset= Yale Correct= 13.333333333333334   ( 15 )
+1 / 2  Dataset= CK Correct= 92.85714285714286   ( 28 )
+2 / 2  Dataset= ADFES Correct= 95.45454545454545   ( 22 )
+3 / 2  Dataset= FEI Correct= 0   ( 0 )
+4 / 2  Dataset= JAFFE Correct= 100.0   ( 31 )
+5 / 2  Dataset= OulaCasia Correct= 91.25   ( 80 )
+6 / 2  Dataset= VisGraf Correct= 83.33333333333334   ( 36 )
+Emotion= anger
+0 / 3  Dataset= Yale Correct= 0   ( 0 )
+1 / 3  Dataset= CK Correct= 100.0   ( 45 )
+2 / 3  Dataset= ADFES Correct= 95.45454545454545   ( 22 )
+3 / 3  Dataset= FEI Correct= 0   ( 0 )
+4 / 3  Dataset= JAFFE Correct= 90.0   ( 30 )
+5 / 3  Dataset= OulaCasia Correct= 94.9367088607595   ( 79 )
+6 / 3  Dataset= VisGraf Correct= 97.22222222222221   ( 36 )
+Emotion= fear
+0 / 4  Dataset= Yale Correct= 0   ( 0 )
+1 / 4  Dataset= CK Correct= 100.0   ( 25 )
+2 / 4  Dataset= ADFES Correct= 100.0   ( 22 )
+3 / 4  Dataset= FEI Correct= 0   ( 0 )
+4 / 4  Dataset= JAFFE Correct= 100.0   ( 32 )
+5 / 4  Dataset= OulaCasia Correct= 95.0   ( 80 )
+6 / 4  Dataset= VisGraf Correct= 100.0   ( 36 )
+Emotion= disgust
+0 / 5  Dataset= Yale Correct= 0   ( 0 )
+1 / 5  Dataset= CK Correct= 100.0   ( 59 )
+2 / 5  Dataset= ADFES Correct= 100.0   ( 22 )
+3 / 5  Dataset= FEI Correct= 0   ( 0 )
+4 / 5  Dataset= JAFFE Correct= 96.55172413793103   ( 29 )
+5 / 5  Dataset= OulaCasia Correct= 97.5   ( 80 )
+6 / 5  Dataset= VisGraf Correct= 86.11111111111111   ( 36 )
+Emotion= surprise
+0 / 6  Dataset= Yale Correct= 86.66666666666667   ( 15 )
+1 / 6  Dataset= CK Correct= 100.0   ( 82 )
+2 / 6  Dataset= ADFES Correct= 100.0   ( 21 )
+3 / 6  Dataset= FEI Correct= 0   ( 0 )
+4 / 6  Dataset= JAFFE Correct= 100.0   ( 30 )
+5 / 6  Dataset= OulaCasia Correct= 100.0   ( 80 )
+6 / 6  Dataset= VisGraf Correct= 97.22222222222221   ( 36 )
+=============================================
+Yale neutral count= 15
+Yale happy count= 15
+Yale sadness count= 15
+=============================================
+=============================================
+Dataset= Yale
+Emotion= neutral  (files= 15 )
+Emotion= happy  (files= 15 )
+Emotion= sad  (files= 15 )
+Emotion= surprise  (files= 15 )
+Dataset= Yale   ( 65.0 %) (files= 60 )
+=============================================
+Dataset= CK
+Emotion= neutral  (files= 591 )
+Emotion= happy  (files= 68 )
+Emotion= sad  (files= 28 )
+Emotion= anger  (files= 45 )
+Emotion= fear  (files= 25 )
+Emotion= disgust  (files= 59 )
+Emotion= surprise  (files= 82 )
+Dataset= CK   ( 99.55456570155901 %) (files= 898 )
+=============================================
+Dataset= ADFES
+Emotion= neutral  (files= 22 )
+Emotion= happy  (files= 22 )
+Emotion= sad  (files= 22 )
+Emotion= anger  (files= 22 )
+Emotion= fear  (files= 22 )
+Emotion= disgust  (files= 22 )
+Emotion= surprise  (files= 21 )
+Dataset= ADFES   ( 98.69281045751634 %) (files= 153 )
+=============================================
+Dataset= FEI
+Emotion= neutral  (files= 200 )
+Emotion= happy  (files= 200 )
+Dataset= FEI   ( 98.5 %) (files= 400 )
+=============================================
+Dataset= JAFFE
+Emotion= neutral  (files= 30 )
+Emotion= happy  (files= 31 )
+Emotion= sad  (files= 31 )
+Emotion= anger  (files= 30 )
+Emotion= fear  (files= 32 )
+Emotion= disgust  (files= 29 )
+Emotion= surprise  (files= 30 )
+Dataset= JAFFE   ( 98.12206572769952 %) (files= 213 )
+=============================================
+Dataset= OulaCasia
+Emotion= happy  (files= 80 )
+Emotion= sad  (files= 80 )
+Emotion= anger  (files= 79 )
+Emotion= fear  (files= 80 )
+Emotion= disgust  (files= 80 )
+Emotion= surprise  (files= 80 )
+Dataset= OulaCasia   ( 96.4509394572025 %) (files= 479 )
+=============================================
+Dataset= VisGraf
+Emotion= neutral  (files= 36 )
+Emotion= happy  (files= 36 )
+Emotion= sad  (files= 36 )
+Emotion= anger  (files= 36 )
+Emotion= fear  (files= 36 )
+Emotion= disgust  (files= 36 )
+Emotion= surprise  (files= 36 )
+Dataset= VisGraf   ( 94.44444444444444 %) (files= 252 )
+=============================================
+=============================================
+Dataset= Yale
+O-N Dataset= Yale   ( 66.66666666666666 %) (files= 45 )
+=============================================
+Dataset= CK
+O-N Dataset= CK   ( 99.3485342019544 %) (files= 307 )
+=============================================
+Dataset= ADFES
+O-N Dataset= ADFES   ( 98.47328244274809 %) (files= 131 )
+=============================================
+Dataset= FEI
+O-N Dataset= FEI   ( 98.0 %) (files= 200 )
+=============================================
+Dataset= JAFFE
+O-N Dataset= JAFFE   ( 97.81420765027322 %) (files= 183 )
+=============================================
+Dataset= OulaCasia
+O-N Dataset= OulaCasia   ( 96.4509394572025 %) (files= 479 )
+=============================================
+Dataset= VisGraf
+O-N Dataset= VisGraf   ( 93.98148148148148 %) (files= 216 )
+=============================================
+Overall Accuracy= 97.23014256619145 % ( 2455 )
+=============================================
